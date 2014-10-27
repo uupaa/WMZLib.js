@@ -1,0 +1,4 @@
+WMZLib.js
+=========
+
+zlib functions.
